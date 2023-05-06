@@ -5819,6 +5819,8 @@ MonoBehaviour:
   - {fileID: 8110199292885757872, guid: bf1cb1076b00b0542ac9882bad5ecbe6, type: 3}
   - {fileID: 8110199292885757872, guid: aae152baad7da884490671d392b0ef28, type: 3}
   - {fileID: 8110199292885757872, guid: 1978f99454225fa439f0bff77f5a0705, type: 3}
+  - {fileID: 8110199292885757872, guid: 655fe37be3b353b4584223103fe6910a, type: 3}
+  - {fileID: 8110199292885757872, guid: a615a9196ff7c2f40be8710e03ca4ecb, type: 3}
   tilesDifficult2:
   - {fileID: 8110199292885757872, guid: c61c0585aa4bad3478deb3af80c90b11, type: 3}
   - {fileID: 8110199292885757872, guid: a970a2df0ae49c944a47dcf781524ea0, type: 3}
