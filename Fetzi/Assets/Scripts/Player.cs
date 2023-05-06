@@ -40,7 +40,7 @@ public class Player : MonoBehaviour
     void Update()
     {
 
-        if(rb.position.y < -10)
+        if(rb.position.y < -14)
         {
              Death();
         }
