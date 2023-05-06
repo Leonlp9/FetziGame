@@ -181,7 +181,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 34
+        y: 51
         width: 16
         height: 16
       alignment: 0
@@ -202,7 +202,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 34
+        y: 51
         width: 16
         height: 16
       alignment: 0
@@ -223,7 +223,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 34
+        y: 51
         width: 16
         height: 16
       alignment: 0
@@ -244,7 +244,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 34
+        y: 51
         width: 16
         height: 16
       alignment: 0
@@ -265,7 +265,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
+        y: 34
         width: 16
         height: 16
       alignment: 0
@@ -286,7 +286,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 17
+        y: 34
         width: 16
         height: 16
       alignment: 0
@@ -307,7 +307,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 17
+        y: 34
         width: 16
         height: 16
       alignment: 0
@@ -328,7 +328,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 17
+        y: 34
         width: 16
         height: 16
       alignment: 0
@@ -349,7 +349,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 17
         width: 16
         height: 16
       alignment: 0
@@ -370,7 +370,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 17
-        y: 0
+        y: 17
         width: 16
         height: 16
       alignment: 0
@@ -391,7 +391,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 34
-        y: 0
+        y: 17
         width: 16
         height: 16
       alignment: 0
@@ -412,7 +412,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 51
-        y: 0
+        y: 17
         width: 16
         height: 16
       alignment: 0
@@ -424,6 +424,90 @@ TextureImporter:
       bones: []
       spriteID: 781b6810fe6bab8a0800000000000000
       internalID: -6288512792030432889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ac80f191e97ff4fb9cc2ef2a452342
+      internalID: 118367561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551b4d69ff61664d8760a02414b8dcc
+      internalID: -179890261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4964e9be0a52a5a49821f269a233a6ed
+      internalID: -1922508781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coins_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525fc35dc294f7444918c474dcafe32f
+      internalID: -1884257900
       vertices: []
       indices: 
       edges: []
@@ -443,6 +527,10 @@ TextureImporter:
       Bronze 1: -4893972260818282012
       Bronze 2: -6323751108524238166
       Bronze 3: 2722280177590742205
+      Coins_0: 118367561
+      Coins_1: -179890261
+      Coins_2: -1922508781
+      Coins_3: -1884257900
       Gold 0: -4986890610287934012
       Gold 1: 6143208460787649835
       Gold 2: 7609282858266732271
