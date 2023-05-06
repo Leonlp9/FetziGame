@@ -48,6 +48,8 @@ GameObject:
   - component: {fileID: 1485612895805122612}
   - component: {fileID: 8631631606752487668}
   - component: {fileID: 2281985590491091723}
+  - component: {fileID: 6836151542628520981}
+  - component: {fileID: 7430607148037172957}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -351,6 +353,35 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &6836151542628520981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6641623609963343264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29cff538c195c249b69c6f2236de67b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library: []
+  m_SpriteLibraryAsset: {fileID: 7108339969198208228, guid: 7c91b1840bbbbd842a0ab4fdb0e201ac, type: 3}
+--- !u!114 &7430607148037172957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6641623609963343264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_CategoryHash: 0
+  m_labelHash: 0
+  m_SpriteKey: 0
 --- !u!1 &7400435729093107006
 GameObject:
   m_ObjectHideFlags: 0
