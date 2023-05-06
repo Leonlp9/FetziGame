@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScene.unity
     guid: 334cd226efab32743a8a3f1a1febc338
   - enabled: 1
+    path: Assets/Scenes/Wardrobe.unity
+    guid: 00893b75e622304438ac03d7c1e80618
+  - enabled: 1
     path: Assets/Scenes/Endless.unity
     guid: c5c85181087321e4eb59511bc89ba4e4
   - enabled: 1
