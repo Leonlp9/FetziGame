@@ -27,7 +27,6 @@ public class Player : MonoBehaviour
     public GameObject deathEffect;
     public Text TodeGui;
 
-
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
