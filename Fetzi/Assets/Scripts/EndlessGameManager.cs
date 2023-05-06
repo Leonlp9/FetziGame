@@ -94,6 +94,8 @@ public class EndlessGameManager : MonoBehaviour {
                     Destroy(tile);
                 }
             }
+
+
         }
         
     }
@@ -103,5 +105,12 @@ public class EndlessGameManager : MonoBehaviour {
         GameObject tile = Instantiate(tilesDifficult1[index], new Vector3(nextSpawnPosition, 0f, 0f), Quaternion.identity);
         nextSpawnPosition = tile.transform.Find("StartPoint").position.x + (tile.transform.Find("EndPoint").position.x - tile.transform.Find("StartPoint").position.x);
         spawnedTiles.Add(tile);
+
+        if (spawnedTiles.Count > 10)
+        {
+            GameObject oldTile = spawnedTiles[0];
+            spawnedTiles.RemoveAt(0);
+            Destroy(oldTile);
+        }
     }
 }
