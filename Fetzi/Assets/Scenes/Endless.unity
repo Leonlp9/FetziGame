@@ -5821,6 +5821,7 @@ MonoBehaviour:
   - {fileID: 8110199292885757872, guid: 1978f99454225fa439f0bff77f5a0705, type: 3}
   - {fileID: 8110199292885757872, guid: 655fe37be3b353b4584223103fe6910a, type: 3}
   - {fileID: 8110199292885757872, guid: a615a9196ff7c2f40be8710e03ca4ecb, type: 3}
+  - {fileID: 8110199292885757872, guid: a717571e97466b14d988972bae11e76f, type: 3}
   tilesDifficult2:
   - {fileID: 8110199292885757872, guid: c61c0585aa4bad3478deb3af80c90b11, type: 3}
   - {fileID: 8110199292885757872, guid: a970a2df0ae49c944a47dcf781524ea0, type: 3}
@@ -5833,6 +5834,7 @@ MonoBehaviour:
   tilesDifficult3:
   - {fileID: 8110199292885757872, guid: 9c3829d4c9af34445928c4f693d67085, type: 3}
   - {fileID: 8110199292885757872, guid: 6b991f2e78dfe9a4f837ef89917e7d35, type: 3}
+  - {fileID: 8110199292885757872, guid: eeaa8cd344392c849b93795b5a9b73fc, type: 3}
   tilesDifficult4:
   - {fileID: 8110199292885757872, guid: a642d64c96f9c0e44b13534cc9ce6fa8, type: 3}
   tilesDifficult5: []
